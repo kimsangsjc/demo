@@ -4,13 +4,15 @@
 
 {
 
-       id: 1,
+```
+   id: 1,
 
-       name: "保理",
+   name: "保理",
 
-       maxAmount: 20.5,
+   maxAmount: 20.5,
 
-       minAmount: 10.0  
+   minAmount: 10.0  
+```
 
 }
 
@@ -20,17 +22,15 @@
 | --- | --- |
 | name | 姓名 |
 
-
-
 响应示例:
 
 {
 
-       code: "OK"
+```
+   code: "OK",
 
-        errorCode: "xxxError"
+    errorCode: "xxxError"
+```
 
 }
-
-
 
