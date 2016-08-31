@@ -1,20 +1,34 @@
-asdfasdf
+# 产品编辑接口
 
-adf
+请求参数示例:
 
-adf
+{
 
-a
+        id:1,
 
-dsf
+        name: "保理",
 
-asdf
+        maxAmount: 10000.00
 
-a
+}
 
-sdf
 
-ads
 
-fa
+字段说明: 
+
+| key | 说明 |
+| --- | --- |
+| name | 产品名称 |
+
+
+
+响应示例:
+
+{
+
+     code: "OK",
+
+     errorCode: "xxxError"
+
+}
 
